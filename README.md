@@ -20,16 +20,3 @@
 
 ### 📊 GitHub Performance
 ![](https://github-readme-stats.vercel.app/api?username=Dianix21&theme=darcula&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Dianix21&theme=darcula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dianix21&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-### 📊 GitHub Stats  
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" width="48%">  
-</div>  
- 
-
-
